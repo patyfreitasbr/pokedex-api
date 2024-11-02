@@ -25,7 +25,7 @@ Backend:
 PokeAPI: API pública para obtenção dos dados dos Pokémon em tempo real
 
 ### Melhorias futuras
-Construção de uma página de detrlhaes dos pokemons personlizada
+Construção de uma página personlizada de detalhes dos pokemons
 
 
 ## 📌 Créditos e Referências
